@@ -1,0 +1,15 @@
+---
+all:
+  children:
+    servers:
+      hosts:
+        macmini2:
+        raspberrypi:
+      vars:
+        description: Linux servers for the Nunez family
+    desktops:
+      hosts:
+        dmaf5:
+        mac-pro-1-1:
+      vars:
+        description: Desktops for the Nunez family
