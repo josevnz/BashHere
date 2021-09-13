@@ -9,11 +9,6 @@ By the end of this article you will have learned the following:
 * Generate YAML and HTML documents
 * Send emails with text and attachments
 
-
-## Quick introduction to arrays, dictionaries and counters
-
-TODO 
-
 ## Documenting a script
 
 Not much to say here. You can have single line comments with a '#' or you
